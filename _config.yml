@@ -1,0 +1,49 @@
+name:               "Johann Petrak"
+description:        "Home Page of Johann Petrak"
+
+url:                ""
+author:             ""
+email:              "johann.petrak@gmail.com"
+gravatar_hash:      "5ec3165c195346139bc787edd85361e8"
+twitter:            "johann_p"
+github:             "johann-petrak"
+linkedin:           "johannpetrak"
+facebook:           "johann.petrak"
+
+disqus_shortname:   ""
+
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+
+paginate:           5
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+#nav:
+#  - name:           "About"
+#    href:           "/about"
+#  - name:           "Download"
+#    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate

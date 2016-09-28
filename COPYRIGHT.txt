@@ -1,0 +1,4 @@
+The template, style, layout, jekyll and some other files used for this 
+site are based on 
+  https://github.com/thinker3197/ink
+and licensed under the same license (MIT LICENSE) see file LICENSE

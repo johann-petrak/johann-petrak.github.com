@@ -1,2 +1,92 @@
-<head></head>
-<body><b>Hello World</b></body>
+---
+layout: default 
+---
+<header class="bloghead">
+    <h1 class="bloghead-title">
+    <a href="{{ site.url }}/">{{ site.name }}</a>
+  </h1>
+    <nav class="bloghead-nav">
+        {% for nav in site.nav %}
+        <a href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
+    </nav>
+</header>
+<div class="content">
+    <p>I am a research fellow at the 
+    <a href="http://www.sheffield.ac.uk/">University of Sheffield</a>
+    and a member of the 
+    <a href="http://nlp.shef.ac.uk/">Natural Language Processing Group</a> of the 
+    <a href="http://www.sheffield.ac.uk/dcs">Computer Science Department</a>.
+    I am working on large-scale multilingual entity recognition and disambiguation and
+    I am part of the team that develops the <a href="http://gate.ac.uk">GATE NLP framework</a>
+    and have also developed and contributed to a number of GATE plugins
+    and other GATE related software. I am generally interested in machine learning, 
+    natural language processing and knowledge representation / ontologies.
+    </p>
+
+    <p>
+    Prior to joining the University of Sheffield, I was a 
+    <a href="http://www.ofai.at/~johann.petrak">researcher</a> at the 
+    <a href="http://www.ofai.at">Austrian Research Institute for Artificial Intelligence (OFAI)</a>.
+    </p>
+
+    For a list of publication see 
+    <a href="https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ">Google Scholar</a>
+    or my <a href="http://www.dcs.shef.ac.uk/cgi-bin/makeperson?J.Petrak">Sheffield University Page</a>.
+    <h3>Software</h3>
+
+    <p>I am an enthusiastic developer and supporter of open source software and have 
+    contributed to the 
+    <a href="https://sourceforge.net/projects/gate/">development of the GATE NLP framework</a> and
+    <a href="https://www.openhub.net/accounts/johannp/positions">a number of other projects</a>.</p>
+ 
+    Some projects I have created or where I have contributed most of the code:
+    <ul>
+     <li><a href="https://github.com/GateNLP/gatelib-interaction">gatelib-interaction</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-AnnotationGraphs">gateplugin-AnnotationGraphs</a></li> 
+     <li><a href="https://github.com/johann-petrak/gateplugin-Evaluation">gateplugin-Evaluation</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-Java">gateplugin-Java</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-JdbcLookup">gateplugin-JdbcLookup</a></li>
+     <li><a href="https://github.com/GateNLP/gateplugin-LearningFramework">gateplugin-LearningFramework</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-ModularPipelines">gateplugin-ModularPipelines</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-Scala">gateplugin-Scala</a></b></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-StringAnnotation">gateplugin-StringAnnotation</a></li>
+     <li><a href="https://github.com/GateNLP/gateplugin-Tagger_CoreNLP">gateplugin-Tagger_CoreNLP</a></li>
+     <li><a href="https://github.com/GateNLP/gateplugin-Tagger_GoogleNLP">gateplugin-Tagger_GoogleNLP</a></li>
+     <li><a href="https://github.com/GateNLP/gateplugin-Tagger_SyntaxNet">gateplugin-TaggerSyntaxNet</a></li>
+     <li><a href="https://github.com/GateNLP/gateplugin-Tagger_TagMe">gateplugin-Tagger_TagMe</a></li>
+     <li><a href="https://github.com/johann-petrak/gateplugin-VirtualCorpus">gateplugin-VirtualCorpus</a></li>
+     <li><a href="https://github.com/GateNLP/keras-wrapper">keras-wrapper</a></li>
+     <li><a href="https://github.com/johann-petrak/simple-issues-tracker">simple-issues-tracker</a></li>
+     <li><a href="https://github.com/GateNLP/sklearn-wrapper">sklearn-wrapper</a></li>
+     <li><a href="https://github.com/GateNLP/weka-wrapper">weka-wrapper</a></li>
+     <li><a href="https://github.com/johann-petrak/miscfastcompact">miscfastcompact</a></li> 
+    <ul>
+     
+    {% if site.posts.size == 0 %}
+    {% else %}
+    <p></p>
+    <h2>Blog Posts</h2> 
+    {% for post in paginator.posts %}
+    <div class="post-list">
+        <h3 class="post-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3> {% if post.description %}
+        <p>{{ post.description }}</p>
+        {% endif %}
+        <div class="post-date">
+            <time>{{ post.date | date_to_string }}</time>
+        </div>
+    </div>
+    {% endfor %} {% if paginator.total_pages > 1 %}
+    <div class="pages">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><</a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">></a>
+      {% endif %}
+    </div>
+    {% endif %}
+  {% endif %}
+</div>
