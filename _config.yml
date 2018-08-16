@@ -22,7 +22,9 @@ baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
-# markdown:            maruku
+kramdown:
+  math_engine: mathjax
+### markdown:            maruku
 
 #nav:
 #  - name:           "About"
@@ -49,3 +51,6 @@ defaults:
 
 gems:
   - jekyll-paginate
+
+plugins:
+  - jemoji
