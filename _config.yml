@@ -22,7 +22,12 @@ baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
-# markdown:            maruku
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  # default:
+  # syntax_highlighter: coderay 
+### markdown:            maruku
 
 #nav:
 #  - name:           "About"
@@ -32,6 +37,12 @@ markdown:           kramdown
 
 sass:
   style:            :compressed
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- deploy.sh
+- stop.sh
 
 defaults:
   -
@@ -47,5 +58,14 @@ defaults:
     values:
       layout:       "post"
 
-gems:
-  - jekyll-paginate
+plugins:
+  - jemoji
+  # see https://github.com/benbalter/jekyll-optional-front-matter
+  # Note: the github-pages gem automatically includes this!
+  # - jekyll-optional-front-matter  
+
+optional_front_matter:
+  enabled: true
+
+optional_front_matter:
+  remove_originals: true
