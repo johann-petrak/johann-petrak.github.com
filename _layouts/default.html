@@ -1,63 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
+<html lang="{{ site.lang | default: "en-UK" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
 
-<body class="preload">
-    <div class="top"></div>
-    <!-- <div class="profile" style="background-image: url({{ site.background }});"> -->
-    <div class="profile">
-        <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
-        <p><b><a href="/">{{ site.name }}</a></b></p>
-        <p><b><a href="http://www.sheffield.ac.uk/dcs">Computer Science Dep.</a></b></p>
-        <p><b><a href="http://nlp.shef.ac.uk/">NLP Group</a></b></p>
-        <p><b><a href="http://www.sheffield.ac.uk">University of Sheffield</a></b></p>
-        <p>&nbsp;</p>
-        <p>Room G30 / Regent Court</p>
-        <p>211 Portobello</p>
-        <p>Sheffield, S1 4DP. UK.</p> 
-        <p><b>johann.petrak@gmail.com</b></p>
-        <p>&nbsp;</p>
-	<p><b>Social:</b></p>	
-	<p>&nbsp;&nbsp;<a href="http://github.com/johann-petrak">GitHub</a></p>
-	<p>&nbsp;&nbsp;<a href="https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ">Scholar</a></p>
-	<p>&nbsp;&nbsp;<a href="https://sourcerer.io/johann-petrak">Sourcerer</a></p>
-	<p>&nbsp;&nbsp;<a href="http://keybase.io/johann_petrak">Keybase</a></p>
-	<p>&nbsp;&nbsp;<a href="http://linkedin.com/in/johannpetrak">LinkedIn</a></p>
-	<p>&nbsp;&nbsp;<a href="http://facebook.com/johann.petrak">Facebook</a></p>
-	<!--
-        <ul class="social">
-            {% if site.github %}
-            <a type="button" href="http://github.com/{{ site.github }}">
-                <i class="fa fa-github"></i>
-            </a>
-            {% endif %} {% if site.twitter %}
-            <a type="button" href="http://twitter.com/{{ site.github }}">
-                <i class="fa fa-twitter"></i>
-            </a>
-            {% endif %} {% if site.linkedin %}
-            <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
-                <i class="fa fa-linkedin"></i>
-            </a>
-            {% endif %} {% if site.keybase %}
-            <a type="button" href="http://keybase.io/{{ site.keybase }}">
-		    <img src="img/icon-keybase-logo-48.png" height="22" width="22" />
-            </a>
-            {% endif %} {% if site.facebook %}
-            <a type="button" href="http://facebook.com/{{ site.facebook }}">
-                <i class="fa fa-facebook"></i>
-            </a>
-            {% endif %}
-        </ul>
-	 
-	-->
-    </div>
-    <div class="posts">
-        {{ content }}
-    </div>
-</body>
-<script type="text/javascript">
-    window.onload = function(){
-        document.getElementsByTagName("BODY")[0].classList.remove("preload");
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Johann Petrak</h1>
+        <a href="/">Home</a> &nbsp; <!-- <a href="blog">Blog</a> -->
+      </div>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      Macros: {
+        bold: ['{\\bf #1}', 1]
+      },
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+      inlineMath: [ ['$','$'], ['\\(', '\\)'] ],
+      displayMath: [ ['$$','$$'], ['\\[', '\\]'] ],
+      processEscapes: true,
     }
+  });
 </script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+  
+  </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
 </html>

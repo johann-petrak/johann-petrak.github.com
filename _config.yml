@@ -1,19 +1,6 @@
-name:               "Johann Petrak"
-description:        "Home Page of Johann Petrak"
-
-url:                ""
-author:             ""
-email:              "johann.petrak@gmail.com"
-gravatar_hash:      "5ec3165c195346139bc787edd85361e8"
-twitter:            "johann_p"
-github:             "johann-petrak"
-linkedin:           "johannpetrak"
-facebook:           "johann.petrak"
-keybase:            "johann_petrak"
-
-disqus_shortname:   ""
-
-# background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+title: Johann Petrak
+description: Homepage of Johann Petrak
+theme: jekyll-theme-hacker
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -28,15 +15,6 @@ kramdown:
   # default:
   # syntax_highlighter: coderay 
 ### markdown:            maruku
-
-#nav:
-#  - name:           "About"
-#    href:           "/about"
-#  - name:           "Download"
-#    href:           "/releases"
-
-sass:
-  style:            :compressed
 
 exclude:
 - Gemfile
@@ -59,7 +37,8 @@ defaults:
       layout:       "post"
 
 plugins:
-  - jemoji
+  - jekyll-paginate
+  # - jemoji
   # see https://github.com/benbalter/jekyll-optional-front-matter
   # Note: the github-pages gem automatically includes this!
   # - jekyll-optional-front-matter  
@@ -69,3 +48,5 @@ optional_front_matter:
 
 optional_front_matter:
   remove_originals: true
+
+
