@@ -2,18 +2,23 @@
 layout: default
 ---
 
-<img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140">I am a research fellow at the 
+<a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
+I am a research fellow at the 
 [University of Sheffield](http://www.sheffield.ac.uk/)
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
 of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
 
-I am working on large-scale multilingual entity recognition and disambiguation and 
-I am part of the team that develops the [GATE NLP framework](http://gate.ac.uk/) 
-and have also developed and contributed to a number of 
-GATE plugins and other GATE related software. 
+I am working on approaches for estimating semantic similarity between texts, machine learning
+approaches to tagging of text and large-scale multilingual entity recognition and disambiguation.   
+I am also part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) 
+and have developed and contributed to a number of GATE plugins and other GATE related software as
+well as a number of other open-source projects.
 
-I am generally interested in machine learning, natural language processing and knowledge representation / ontologies.
+I am interested in a wide range of research topics, including machine learning approaches for 
+text tagging, learning to rank and metric learning, approaches to natural language processing
+based on imitation learning and cost-sensitive learning and the synergies between knowledge representation
+and ontologies on one hand and natural language processing on the other hand.
 
 ## Contact
 
