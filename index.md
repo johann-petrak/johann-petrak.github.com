@@ -27,12 +27,13 @@ and ontologies on one hand and natural language processing on the other hand.
 * Email: johann.petrak (AT) sheffield.ac.uk
 * Email: johann (AT) jpetrak.org
 * Skype: joh\_pet
-* [GitHub](http://github.com/johann-petrak)
+* [GitHub](http://github.com/johann-petrak) / [GitLab](https://gitlab.com/johann-petrak) / [BitBucket](https://bitbucket.org/johann_petrak/) 
 * [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 * [Sourcerer](https://sourcerer.io/johann-petrak)
 * [Keybase](http://keybase.io/johann_petrak)
 * [LinkedIn](http://linkedin.com/in/johannpetrak)
 * [Facebook](http://facebook.com/johann.petrak)
+* [Twitter](https://twitter.com/johann_p) @johann\_p
 * [ORCID](https://orcid.org/0000-0001-8038-3096)
 
 
