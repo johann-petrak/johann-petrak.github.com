@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
-I am a research fellow at the 
+I am a [research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/jpetrak/profile) at the 
 [University of Sheffield](http://www.sheffield.ac.uk/)
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
