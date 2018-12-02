@@ -4,9 +4,9 @@ https://keybase.io/johann_petrak
 
 I hereby claim:
 
-  * I am an admin of https://johann-petrak.github.io
+  * I am an admin of http://jpetrak.org
   * I am johann_petrak (https://keybase.io/johann_petrak) on keybase.
-  * I have a public key ASDzSTa7CwGebo49LW4iIpBDrjgPw3CUsjVg9TSdmcEk8Qo
+  * I have a public key ASBCqmL7eelKMOkUghJGw6-FY7psF3IOse_CNv2mwHBbJQo
 
 To do so, I am signing this object:
 
@@ -15,37 +15,38 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "0120f34936bb0b019e6e8e3d2d6e22229043ae380fc37094b23560f5349d99c124f10a",
       "host": "keybase.io",
-      "kid": "0120f34936bb0b019e6e8e3d2d6e22229043ae380fc37094b23560f5349d99c124f10a",
+      "kid": "012042aa62fb79e94a30e914821246c3af8563ba6c17720eb1efc236fda6c0705b250a",
       "uid": "e4686cbf4a09befdfc321803af289519",
       "username": "johann_petrak"
     },
     "merkle_root": {
-      "ctime": 1520845464,
-      "hash": "93e15d008d09fd7fa2226a9add07e098ac19b5175330b67a43dffb3376a0f1865bc399e4e8e5c9d45fee11072569f976b2a9311b088ab19d07e77436c87d4d13",
-      "hash_meta": "38663c894edaa70bc1e6f84bad52fb3411aa5f469e67893b9bbbf8559b6f67a0",
-      "seqno": 2222843
+      "ctime": 1543714091,
+      "hash": "c0588b671e49bec4e7c3cfc0f32aea2601865bdeeed9d19df75570ef79afd5cd96c99f8a6b6ca22a05a0ade89324a9e46d981f57b6b79c23edb011a9bb1edd39",
+      "hash_meta": "27dff9d9a5d045cded10f33c7cdc12c55bcb7145b9855a909c63d6eb2ca23760",
+      "seqno": 4038405
     },
     "service": {
-      "hostname": "johann-petrak.github.io",
-      "protocol": "https:"
+      "entropy": "V9QGJaSmNBVp+66oVqRCyVwa",
+      "hostname": "jpetrak.org",
+      "protocol": "http:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.45"
+    "version": "2.11.0"
   },
-  "ctime": 1520845521,
+  "ctime": 1543714106,
   "expire_in": 504576000,
-  "prev": "fc32f8223fd3de01d33210c1e217e08573db52e794672fcdb835e5a534c448f7",
-  "seqno": 10,
+  "prev": "6554957dd135eaa67c37dddf01c723744268e575a722b0eb1f623c4824fb1717",
+  "seqno": 41,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg80k2uwsBnm6OPS1uIiKQQ644D8NwlLI1YPU0nZnBJPEKp3BheWxvYWTFA1V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjM0OTM2YmIwYjAxOWU2ZThlM2QyZDZlMjIyMjkwNDNhZTM4MGZjMzcwOTRiMjM1NjBmNTM0OWQ5OWMxMjRmMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjM0OTM2YmIwYjAxOWU2ZThlM2QyZDZlMjIyMjkwNDNhZTM4MGZjMzcwOTRiMjM1NjBmNTM0OWQ5OWMxMjRmMTBhIiwidWlkIjoiZTQ2ODZjYmY0YTA5YmVmZGZjMzIxODAzYWYyODk1MTkiLCJ1c2VybmFtZSI6ImpvaGFubl9wZXRyYWsifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjA4NDU0NjQsImhhc2giOiI5M2UxNWQwMDhkMDlmZDdmYTIyMjZhOWFkZDA3ZTA5OGFjMTliNTE3NTMzMGI2N2E0M2RmZmIzMzc2YTBmMTg2NWJjMzk5ZTRlOGU1YzlkNDVmZWUxMTA3MjU2OWY5NzZiMmE5MzExYjA4OGFiMTlkMDdlNzc0MzZjODdkNGQxMyIsImhhc2hfbWV0YSI6IjM4NjYzYzg5NGVkYWE3MGJjMWU2Zjg0YmFkNTJmYjM0MTFhYTVmNDY5ZTY3ODkzYjliYmJmODU1OWI2ZjY3YTAiLCJzZXFubyI6MjIyMjg0M30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqb2hhbm4tcGV0cmFrLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwODQ1NTIxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImZjMzJmODIyM2ZkM2RlMDFkMzMyMTBjMWUyMTdlMDg1NzNkYjUyZTc5NDY3MmZjZGI4MzVlNWE1MzRjNDQ4ZjciLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAG56C9guSq1rEFjy0zM0SG2r97uI1u5QX7+sana6V96lYLlNguCN6an0TKQ5xqLmU+Wk2e2q0KvU0N/H31xi+DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ/4o+Sn2dDNiCNArvXPFjmZX5DomuQ5xjJVxXcVr4e6o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQqpi+3npSjDpFIISRsOvhWO6bBdyDrHvwjb9psBwWyUKp3BheWxvYWTESpcCKcQgZVSVfdE16qZ8N93fAccjdEJo5XWnIrDrH2I8SCT7FxfEILigNi12Sa3GO2AA4IG77mxaluw83e+SutRTgN9iAtneAgHCo3NpZ8RA7EtqbpRXBYFDeJC+84zN86SGGV+ALghIeHZS8R4/MIuvcCR70pusqVqaUVto1QKVn1lf1TIsAalAsncBOEB9BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILPujltx+r8ky0hQJ/BpdgRR3x0C6ji+JCAnDqUCiityo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
