@@ -3,15 +3,19 @@ layout: default
 ---
 
 <a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
-I am a [research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/jpetrak/profile) at the 
+I am a researcher at the [Austrian Research Institute for Artificial Intelligence](http://ofai.at) and also a
+a [research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/jpetrak/profile) at the 
 [University of Sheffield](http://www.sheffield.ac.uk/)
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
 of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
 
-I am working on approaches for estimating semantic similarity between texts, machine learning
+I am working on a project that analyses the behaviour of visitors of a large
+Austrian news site and how the discourse in the online discussion forums
+influences the interaction with the site.
+I am also working on approaches for estimating semantic similarity between texts, machine learning
 approaches to tagging of text and large-scale multilingual entity recognition and disambiguation.   
-I am also part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) 
+I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) 
 and have developed and contributed to a number of GATE plugins and other GATE related software as
 well as a number of other open-source projects.
 
