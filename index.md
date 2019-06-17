@@ -109,6 +109,9 @@ many GATE NLP plugins,  and a number of other projects.
 
 Some selected software projects:
 
+* [Python configsimple](https://pypi.org/project/configsimple/)<br/>
+  A python package that makes it easy to configure each component of a larger system in a way
+  similar to argparse and from config files and query all configuration parameters from the command line.
 * [gateplugin-LearningFramework](https://github.com/GateNLP/gateplugin-LearningFramework)<br/>
   A GATE plugin for using various machine learning algorithms from withing GATE. It supports classification, regression and tagging tasks and allows the use of algorithms from LibSVM, Mallet, Weka (as external program), Scikit-Learn (external, Python), CostCLA (external, Python), Pytorch (external, Python) and Keras (external, Python)
 * [python-sparsevectors](https://github.com/johann-petrak/python-sparsevectors)<br/>
@@ -123,7 +126,7 @@ Some selected software projects:
 * [gateplugin-Tagger_TagMe](https://github.com/GateNLP/gateplugin-Tagger_TagMe)<br/>
   A GATE plugin which can connect to the TagMe web API to annotate documents.
 * [gateplugin-CorpusStats](https://github.com/johann-petrak/gateplugin-CorpusStats)<br/>
-  A GATE plugin to create term frequency, document frequency and tf*idf stats for a corpus. This plugin can be run multi-threaded using GCP.
+  A GATE plugin to create term frequency, document frequency and tf\*idf stats for a corpus. This plugin can be run multi-threaded using GCP.
 * [gatelib-interaction](https://github.com/GateNLP/gatelib-interaction)<br/>
   A library that simplifies the interaction between GATE processing resources and external software. The interaction can be done either by starting a separate process and communicating through pipes with the process or by communicating with a separate server. So far this is mainly used for enabling the GATE machine learning plugin, gateplugin-LearningFramework to use Weka, Scikit-Learn, Keras, Pytorch and other external tools.
 * [gateplugin-AnnotationGraphs](https://github.com/johann-petrak/gateplugin-AnnotationGraphs)<br/>
