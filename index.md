@@ -4,7 +4,7 @@ layout: default
 
 <a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
 I am a researcher at the [Austrian Research Institute for Artificial Intelligence](http://ofai.at) and also a
-a [research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/jpetrak/profile) at the 
+[research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/jpetrak/profile) at the 
 [University of Sheffield](http://www.sheffield.ac.uk/)
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
@@ -26,8 +26,9 @@ and ontologies on one hand and natural language processing on the other hand.
 
 ## Contact
 
-* Room G30, Regent Court, 211 Portobello, S1 4DP, UK
+* Freyung 6/6, A-1010 Vienna, Austrai
 * Email: johann.petrak (AT) gmail.com
+* Email: johann.petrak (AT) ofai.at
 * Email: johann.petrak (AT) sheffield.ac.uk
 * Email: johann (AT) jpetrak.org
 * Skype: joh\_pet
@@ -46,6 +47,11 @@ and ontologies on one hand and natural language processing on the other hand.
 See also [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 
 Selected publications:
+* **Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News
+Detection using ELMo Sentence Representation Convolutional Network**<br/>
+  Ye Jiang, Johann Petrak, Xingyi Song, Kalina Bontcheva, Diana Maynard<br/>
+  (Winning system of Task 4, Hyperpartisan News Detection)<br/>
+  To appear.
 * **A Deep Neural Network Sentence Level Classification Method with Context Information**<br/>
   X Song, J Petrak, A Roberts. Proceedings of EMNLP 2018.<br/>
   ArXiv version: <a href="https://arxiv.org/abs/1809.00934">[PDF]</a>
