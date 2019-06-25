@@ -10,7 +10,7 @@ and a member of the
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
 of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
 
-I am working on a project that analyses the behaviour of visitors of a large
+I am currently working in [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
 Austrian news site and how the discourse in the online discussion forums
 influences the interaction with the site.
 I am also working on approaches for estimating semantic similarity between texts, machine learning
