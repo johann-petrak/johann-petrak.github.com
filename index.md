@@ -115,6 +115,10 @@ many GATE NLP plugins,  and a number of other projects.
 
 Some selected software projects:
 
+* [Python gatenlp](https://github.com/GateNLP/python-gatenlp)<br/>
+  Python 3 library that brings the main GATE abstractions and features to
+  Python and allows to interface to popular NLP libraries like Spacy and
+  Stanford Stanza. 
 * [Python configsimple](https://pypi.org/project/configsimple/)<br/>
   A python package that makes it easy to configure each component of a larger system in a way
   similar to argparse and from config files and query all configuration parameters from the command line.
