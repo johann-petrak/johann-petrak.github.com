@@ -157,6 +157,10 @@ Some selected software projects:
   A very simple script for tracking issues. This is meant to be used from within a git repository and will simply manage issues by creating a new file for each issue in a subdirectory of the repository.
 * [license-headers](https://github.com/johann-petrak/license-headers)<br/>
   A simple python script to add or replace license headers to all files in a directory tree of source files.
+* [SesameSPARQL](https://github.com/GateNLP/SesameSPARQL)<br/>
+  A tool to query an OpenRDF Sesame SPARQL endpoint and retrieve results as TSV files. Allows to handle large result sets 
+  without timing out or exhausting the memory of the server by retrieving results in small batches and increasing the 
+  default query timeout. 
 * [gatetools-runpipeline](https://github.com/johann-petrak/gatetool-runpipeline)<br/>
   A useful and flexible command line script to run a GATE pipeline on documents in a directory.
 * [gateplugin-dict-lemmatizer](https://github.com/GateNLP/gateplugin-dict-lemmatizer)<br/>
