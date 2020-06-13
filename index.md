@@ -27,7 +27,7 @@ and ontologies on one hand and natural language processing on the other hand.
 ## Contact
 
 * Freyung 6/6, A-1010 Vienna, Austria
-* Email: johann.petrak (AT) gmail.com
+* Email: johann.petrak (AT) gmail.com (preferred)
 * Email: johann.petrak (AT) ofai.at
 * Email: johann.petrak (AT) sheffield.ac.uk
 * Email: johann (AT) jpetrak.org
