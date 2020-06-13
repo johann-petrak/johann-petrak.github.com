@@ -47,11 +47,14 @@ and ontologies on one hand and natural language processing on the other hand.
 See also [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 
 Selected publications:
+* **Classification Aware Neural Topic Model and its Application on a New COVID-19 Disinformation Corpus**<br/>
+  Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva<br/>
+  arXiv preprint <a href="https://arxiv.org/abs/2006.03354">arXiv:2006.03354</a>
 * **Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News
 Detection using ELMo Sentence Representation Convolutional Network**<br/>
   Ye Jiang, Johann Petrak, Xingyi Song, Kalina Bontcheva, Diana Maynard<br/>
   (Winning system of Task 4, Hyperpartisan News Detection)<br/>
-  To appear.
+  Proceedings of the 13th International Workshop on Semantic Evaluation, 840-844.
 * **A Deep Neural Network Sentence Level Classification Method with Context Information**<br/>
   X Song, J Petrak, A Roberts. Proceedings of EMNLP 2018.<br/>
   ArXiv version: <a href="https://arxiv.org/abs/1809.00934">[PDF]</a>
