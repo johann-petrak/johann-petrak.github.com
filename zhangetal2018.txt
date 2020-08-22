@@ -1,0 +1,14 @@
+@article{ZHANG2018102,
+title = "Adapted TextRank for Term Extraction: A Generic Method of Improving Automatic Term Extraction Algorithms",
+journal = "Procedia Computer Science",
+volume = "137",
+pages = "102 - 108",
+year = "2018",
+note = "Proceedings of the 14th International Conference on Semantic Systems 10th – 13th of September 2018 Vienna, Austria",
+issn = "1877-0509",
+doi = "https://doi.org/10.1016/j.procs.2018.09.010",
+url = "http://www.sciencedirect.com/science/article/pii/S1877050918316144",
+author = "Ziqi Zhang and Johann Petrak and Diana Maynard",
+keywords = "automatic term extraction, NLP, terminology, ontology engineering",
+abstract = "Automatic Term Extraction is a fundamental Natural Language Processing task often used in many knowledge acquisition processes. It is a challenging NLP task due to its high domain dependence: no existing methods can consistently outperform others in all domains, and good ATE is very much an unsolved problem. We propose a generic method for improving the ranking of terms extracted by a potentially wide range of existing ATE methods. We re-design the well-known TextRank algorithm to work at corpus level, using easily obtainable domain resources in the form of seed words or phrases, to compute a score for a word from the target dataset. This is used to refine a candidate term’s score computed by an existing ATE method, potentially improving the ranking of real terms to be selected for tasks such as ontology engineering. Evaluation shows consistent improvement on 10 state of the art ATE methods by up to 25 percentage points in average precision measured at top-ranked K candidates."
+}

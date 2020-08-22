@@ -1,0 +1,15 @@
+@inproceedings{aker-etal-2017-extensible,
+    title = "An Extensible Multilingual Open Source Lemmatizer",
+    author = "Aker, Ahmet  and
+      Petrak, Johann  and
+      Sabbah, Firas",
+    booktitle = "Proceedings of the International Conference Recent Advances in Natural Language Processing, {RANLP} 2017",
+    month = sep,
+    year = "2017",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd.",
+    url = "https://doi.org/10.26615/978-954-452-049-6_006",
+    doi = "10.26615/978-954-452-049-6_006",
+    pages = "40--45",
+    abstract = "We present GATE DictLemmatizer, a multilingual open source lemmatizer for the GATE NLP framework that currently supports English, German, Italian, French, Dutch, and Spanish, and is easily extensible to other languages. The software is freely available under the LGPL license. The lemmatization is based on the Helsinki Finite-State Transducer Technology (HFST) and lemma dictionaries automatically created from Wiktionary. We evaluate the performance of the lemmatizers against TreeTagger, which is only freely available for research purposes. Our evaluation shows that DictLemmatizer achieves similar or even better results than TreeTagger for languages where there is support from HFST. The performance drops when there is no support from HFST and the entire lemmatization process is based on lemma dictionaries. However, the results are still satisfactory given the fact that DictLemmatizer isopen-source and can be easily extended to other languages. The software for extending the lemmatizer by creating word lists from Wiktionary dictionaries is also freely available as open-source software.",
+}

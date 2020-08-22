@@ -1,0 +1,17 @@
+@inproceedings{jiang-etal-2019-team,
+    title = "Team Bertha von Suttner at {S}em{E}val-2019 Task 4: Hyperpartisan News Detection using {ELM}o Sentence Representation Convolutional Network",
+    author = "Jiang, Ye  and
+      Petrak, Johann  and
+      Song, Xingyi  and
+      Bontcheva, Kalina  and
+      Maynard, Diana",
+    booktitle = "Proceedings of the 13th International Workshop on Semantic Evaluation",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/S19-2146",
+    doi = "10.18653/v1/S19-2146",
+    pages = "840--844",
+    abstract = "This paper describes the participation of team {``}bertha-von-suttner{''} in the SemEval2019 task 4 Hyperpartisan News Detection task. Our system uses sentence representations from averaged word embeddings generated from the pre-trained ELMo model with Convolutional Neural Networks and Batch Normalization for predicting hyperpartisan news. The final predictions were generated from the averaged predictions of an ensemble of models. With this architecture, our system ranked in first place, based on accuracy, the official scoring metric.",
+}

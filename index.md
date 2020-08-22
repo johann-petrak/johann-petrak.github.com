@@ -47,6 +47,11 @@ and ontologies on one hand and natural language processing on the other hand.
 See also [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 
 Selected publications:
+* **Using ontologies to map between research data and policymakers’ presumptions: the experience of the KNOWMAK project**<br/>
+  Diana Maynard, Benedetto Lepori, Johann Petrak, Xingyi Song, Philippe Laredo<br/>
+  Scientometrics 2020.<br/>
+  <a href="https://link.springer.com/content/pdf/10.1007/s11192-020-03664-6.pdf">[PDF]</a> 
+  <a href="maynard2020a.txt">[BIB]</a>
 * **Classification Aware Neural Topic Model and its Application on a New COVID-19 Disinformation Corpus**<br/>
   Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva<br/>
   arXiv preprint <a href="https://arxiv.org/abs/2006.03354">[PDF]</a>
@@ -54,7 +59,10 @@ Selected publications:
 Detection using ELMo Sentence Representation Convolutional Network**<br/>
   Ye Jiang, Johann Petrak, Xingyi Song, Kalina Bontcheva, Diana Maynard<br/>
   (Winning system of Task 4, Hyperpartisan News Detection)<br/>
-  Proceedings of the 13th International Workshop on Semantic Evaluation, 840-844.
+  Proceedings of the 13th International Workshop on Semantic Evaluation, 840-844.<br/>
+  <a href="https://www.aclweb.org/anthology/S19-2146.pdf">[PDF]</a>
+  <a href="jiang2019a.txt">[BIB]</a>
+  <a href="https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner">[Software]</a>
 * **A Deep Neural Network Sentence Level Classification Method with Context Information**<br/>
   X Song, J Petrak, A Roberts. Proceedings of EMNLP 2018.<br/>
   ArXiv version: <a href="https://arxiv.org/abs/1809.00934">[PDF]</a>
@@ -62,11 +70,11 @@ Detection using ELMo Sentence Representation Convolutional Network**<br/>
 * **Adapted TextRank for Term Extraction: A Generic Method of Improving Automatic Term Extraction Algorithms**.<br/>
   Z Zhang, J Petrak, D Maynard. Proceedings Semantics 2018. <br/>
   <a href="https://www.researchgate.net/profile/Ziqi_Zhang7/publication/326904600_A_Generic_Method_of_Improving_Automatic_Term_Extraction_Algorithms/links/5b6b3b73a6fdcc87df6da54b/A-Generic-Method-of-Improving-Automatic-Term-Extraction-Algorithms.pdf">[PDF]</a>
-  <!-- <a href="zhangetal2018.txt">[BIB]</a> -->
+  <a href="zhangetal2018.txt">[BIB]</a>
 * **An extensible multilingual open source lemmatizer**. <br/>
   A Aker, J Petrak, F Sabbah. Proceedings of RANLP 2017.<br/> 
-  <a href="http://eprints.whiterose.ac.uk/124254/1/RANLP006.pdf">[PDF]</a>
-  <!-- <a href="akeretal2017.txt">[BIB]</a> -->
+  <a href="https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP006.pdf">[PDF]</a>
+  <a href="akeretal2017.txt">[BIB]</a>
   <a href="https://github.com/GateNLP/gateplugin-dict-lemmatizer">[Software]</a>
 * **Using @Twitter conventions to improve #lod-based named entity disambiguation** <br/>
   G Gorrell, J Petrak, K Bontcheva <br/>
