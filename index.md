@@ -4,7 +4,7 @@ layout: default
 
 <a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
 I am a researcher at the [Austrian Research Institute for Artificial Intelligence](http://ofai.at) and also a
-[research fellow](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?J.Petrak) at the 
+[research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/johann-petrak) at the 
 [University of Sheffield](http://www.sheffield.ac.uk/)
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
