@@ -49,6 +49,9 @@ and ontologies on one hand and natural language processing on the other hand.
 See also [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 
 Selected publications:
+* **Classification Aware Neural Topic Model for COVID-19 Disinformation Categorisation**</br>
+  Xingi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva<br>
+  Accepted for publication, PLOS ONE 2021. 
 * **Using ontologies to map between research data and policymakers’ presumptions: the experience of the KNOWMAK project**<br/>
   Diana Maynard, Benedetto Lepori, Johann Petrak, Xingyi Song, Philippe Laredo<br/>
   Scientometrics 2020.<br/>
