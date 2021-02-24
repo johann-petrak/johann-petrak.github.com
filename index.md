@@ -52,7 +52,7 @@ Selected publications:
 * **Classification Aware Neural Topic Model for COVID-19 Disinformation Categorisation**<br>
   Xingi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva<br>
   PLOS ONE 16(2): e0247086. <a href="https://doi.org/10.1371/journal.pone.0247086">https://doi.org/10.1371/journal.pone.0247086</a><br>
-  <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247086&type=printable">[PDF]</a><br>
+  <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247086&type=printable">[PDF]</a>
   <a href="songetal2021a.txt">[BIB]</a>
 * **Using ontologies to map between research data and policymakers’ presumptions: the experience of the KNOWMAK project**<br/>
   Diana Maynard, Benedetto Lepori, Johann Petrak, Xingyi Song, Philippe Laredo<br/>
