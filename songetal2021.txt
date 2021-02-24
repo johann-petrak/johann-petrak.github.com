@@ -1,0 +1,14 @@
+@article{10.1371/journal.pone.0247086,
+    author = {Song, Xingyi AND Petrak, Johann AND Jiang, Ye AND Singh, Iknoor AND Maynard, Diana AND Bontcheva, Kalina},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Classification aware neural topic model for COVID-19 disinformation categorisation},
+    year = {2021},
+    month = {02},
+    volume = {16},
+    url = {https://doi.org/10.1371/journal.pone.0247086},
+    pages = {1-22},
+    abstract = {The explosion of disinformation accompanying the COVID-19 pandemic has overloaded fact-checkers and media worldwide, and brought a new major challenge to government responses worldwide. Not only is disinformation creating confusion about medical science amongst citizens, but it is also amplifying distrust in policy makers and governments. To help tackle this, we developed computational methods to categorise COVID-19 disinformation. The COVID-19 disinformation categories could be used for a) focusing fact-checking efforts on the most damaging kinds of COVID-19 disinformation; b) guiding policy makers who are trying to deliver effective public health messages and counter effectively COVID-19 disinformation. This paper presents: 1) a corpus containing what is currently the largest available set of manually annotated COVID-19 disinformation categories; 2) a classification-aware neural topic model (CANTM) designed for COVID-19 disinformation category classification and topic discovery; 3) an extensive analysis of COVID-19 disinformation categories with respect to time, volume, false type, media type and origin source.},
+    number = {2},
+    doi = {10.1371/journal.pone.0247086}
+}
