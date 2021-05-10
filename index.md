@@ -9,6 +9,7 @@ I am a researcher at the [Austrian Research Institute for Artificial Intelligenc
 and a member of the 
 [Natural Language Processing Group](http://nlp.shef.ac.uk/) 
 of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
+Enthusiastic [developer of open source software](https://profile.codersrank.io/user/johann-petrak/).
 
 I am currently working in [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
 Austrian news site and how the discourse in the online discussion forums
@@ -126,9 +127,9 @@ automatic recognition of sentence boundaries in audio-transcripts.
 ## Software
 
 I am an enthusiastic 
-<a href="https://sourcerer.io/johann-petrak">developer and supporter of open source software</a>
+<a href="https://profile-summary-for-github.com/user/johann-petrak">developer and supporter of open source software</a>
  and have 
-contributed to the development of the <a href="https://gate.ac.uk/">GATE NLP framework</a>,
+contributed to the development of the <a href="https://gate.ac.uk/">GATE NLP framework</a>, 
 many GATE NLP plugins,  and a number of other projects.
 
 Some selected software projects:
