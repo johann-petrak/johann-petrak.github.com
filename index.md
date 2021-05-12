@@ -132,7 +132,7 @@ I am an enthusiastic
 contributed to the development of the <a href="https://gate.ac.uk/">GATE NLP framework</a>, 
 many GATE NLP plugins,  and a number of other projects.
 
-<a href="https://profile.codersrank.io/user/johann-petrak"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false" width="300px" alt="codesrank.io"></a>
+<a href="https://profile.codersrank.io/user/johann-petrak"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false" width="400px" alt="codesrank.io"></a>
 
 Some selected software projects:
 
