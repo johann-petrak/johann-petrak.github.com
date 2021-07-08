@@ -129,8 +129,10 @@ automatic recognition of sentence boundaries in audio-transcripts.
 I am an enthusiastic 
 <a href="https://profile-summary-for-github.com/user/johann-petrak">developer and supporter of open source software</a>
  and have 
-contributed to the development of the <a href="https://gate.ac.uk/">GATE NLP framework</a>, 
-many GATE NLP plugins,  and a number of other projects.
+contributed to the development of the <a href="https://gate.ac.uk/">GATE NLP framework</a>, the 
+<a href="https://github.com/GateNLP/python-gatenlp">Python GateNLP</a> NLP framework, 
+many GATE NLP plugins, the <a href="https://github.com/deepset-ai/FARM">FARM</a> deep learning framwork,
+and a number of other projects.
 
 <a href="https://profile.codersrank.io/user/johann-petrak"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false" width="400px" alt="codesrank.io"></a>
 
