@@ -136,6 +136,8 @@ and a number of other projects.
 
 <a href="https://profile.codersrank.io/user/johann-petrak"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false" width="400px" alt="codesrank.io"></a>
 
+[![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=johann-petrak)](https://github.com/anuraghazra/github-readme-stats)
+
 Some selected software projects:
 
 * [Python gatenlp](https://github.com/GateNLP/python-gatenlp)<br/>
