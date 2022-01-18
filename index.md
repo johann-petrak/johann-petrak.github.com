@@ -16,7 +16,9 @@ Austrian news site and how the discourse in the online discussion forums
 influences the interaction with the site.
 I am also working on approaches for estimating semantic similarity between texts, machine learning
 approaches to tagging of text and large-scale multilingual entity recognition and disambiguation.   
-I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) 
+
+I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) and
+main designer and developer of the [Python gatenlp package](https://github.com/GateNLP/python-gatenlp/) 
 and have developed and contributed to a number of GATE plugins and other GATE related software as
 well as a number of other open-source projects.
 

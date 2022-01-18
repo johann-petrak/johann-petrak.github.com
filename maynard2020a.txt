@@ -1,24 +1,14 @@
-@article{wrro135565,
-          volume = {137},
-           month = {October},
-          author = {Z. Zhang and J. Petrak and D. Maynard},
-            note = {{\copyright} 2018 The Authors. Published by Elsevier B.V.
-This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0/)
-Peer-review under responsibility of the scientific committee of the SEMANTiCS 2018 ? 14th International Conference on Semantic Systems.},
-       booktitle = {14th International Conference on Semantic Systems},
-           title = {Adapted TextRank for Term Extraction: a generic method of improving automatic term extraction algorithms},
-       publisher = {Elsevier},
-            year = {2018},
-         journal = {Procedia Computer Science},
-           pages = {102--108},
-        keywords = {Automatic term extraction; NLP; terminology; ontology engineering},
-             url = {http://eprints.whiterose.ac.uk/135565/},
-        abstract = {Automatic Term Extraction is a fundamental Natural Language Processing task often used in many knowledge acquisition processes. It is a challenging NLP task due to its high domain dependence: no existing methods can consistently outperform others in
-all domains, and good ATE is very much an unsolved problem. We propose a generic method for improving the ranking of terms
-extracted by a potentially wide range of existing ATE methods. We re-design the well-known TextRank algorithm to work at corpus
-level, using easily obtainable domain resources in the form of seed words or phrases, to compute a score for a word from the target
-dataset. This is used to refine a candidate term?s score computed by an existing ATE method, potentially improving the ranking of
-real terms to be selected for tasks such as ontology engineering. Evaluation shows consistent improvement on 10 state of the art
-ATE methods by up to 25 percentage points in average precision measured at top-ranked K candidates.
+@article{maynard2020using,
+  title={Using ontologies to map between research data and policymakers' presumptions: the experience of the KNOWMAK project},
+  author={Maynard, Diana and Lepori, Benedetto and Petrak, Johann and Song, Xingyi and Laredo, Philippe},
+  journal={Scientometrics},
+  volume={125},
+  number={2},
+  pages={1275--1290},
+  year={2020},
+  publisher={Springer International Publishing},
+  keywords = "publ-ai",
+  url = "https://core.ac.uk/reader/328801960",
+  entry_edited = "J.Petrak"
 }
-}
+
