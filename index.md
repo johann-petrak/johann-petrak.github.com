@@ -13,7 +13,7 @@ Enthusiastic [developer of open source software](https://profile.codersrank.io/u
 
 Most recently I have been working on [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
 Austrian news site and how the discourse in the online discussion forums
-influences the interaction with the site and on a project that uses NLP to find abuse directed at journalists on Twitter)
+influences the interaction with the site and on a [project](https://www.sheffield.ac.uk/news/towards-early-warning-system-violence-against-women-journalists) that uses NLP (among other approaches) to find, understand and warn about abuse directed at women journalists on Twitter.
 
 I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) and
 main designer and developer of the Python [GateNLP](https://github.com/GateNLP/python-gatenlp/) package
