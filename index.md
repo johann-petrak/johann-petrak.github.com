@@ -11,16 +11,14 @@ and a member of the
 of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
 Enthusiastic [developer of open source software](https://profile.codersrank.io/user/johann-petrak/).
 
-I am currently working in [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
+Most recently I have been working on [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
 Austrian news site and how the discourse in the online discussion forums
-influences the interaction with the site.
-I am also working on approaches for estimating semantic similarity between texts, machine learning
-approaches to tagging of text and large-scale multilingual entity recognition and disambiguation.   
+influences the interaction with the site and on a project that uses NLP to find abuse directed at journalists on Twitter)
 
 I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) and
-main designer and developer of the [Python gatenlp package](https://github.com/GateNLP/python-gatenlp/) 
+main designer and developer of the Python [GateNLP](https://github.com/GateNLP/python-gatenlp/) package
 and have developed and contributed to a number of GATE plugins and other GATE related software as
-well as a number of other open-source projects.
+well as many other open-source projects.
 
 I am interested in a wide range of research topics, including machine learning approaches for 
 text tagging, learning to rank and metric learning, approaches to natural language processing
