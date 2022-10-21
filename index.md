@@ -39,7 +39,6 @@ and ontologies on one hand and natural language processing on the other hand.
 * [dblp](https://dblp.uni-trier.de/pid/37/5468.html)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Johann-Petrak/40402401)
 * [ORCID](https://orcid.org/0000-0001-8038-3096)
-* [Sourcerer](https://sourcerer.io/johann-petrak)
 * [Keybase](http://keybase.io/johann_petrak)
 * [LinkedIn](http://linkedin.com/in/johannpetrak)
 * [Facebook](http://facebook.com/johann.petrak)
