@@ -42,6 +42,7 @@ and ontologies on one hand and natural language processing on the other hand.
 * [Keybase](http://keybase.io/johann_petrak)
 * [LinkedIn](http://linkedin.com/in/johannpetrak)
 * [Facebook](http://facebook.com/johann.petrak)
+* [Mastodon](https://mastodon.social/@johann_petrak)
 * [Twitter](https://twitter.com/johann_p) @johann\_p
 
 ## Publications
