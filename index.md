@@ -44,6 +44,7 @@ and ontologies on one hand and natural language processing on the other hand.
 * [Facebook](http://facebook.com/johann.petrak)
 * <a rel="me" href="https://sigmoid.social/@johann_petrak">Mastodon</a>
 * [Twitter](https://twitter.com/johann_p) @johann\_p
+* [Keyoxide](https://keyoxide.org/hkp/2D2A808AB42A523206C35929789D465DC2248E6C)
 
 ## Publications
 
