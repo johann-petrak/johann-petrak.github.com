@@ -31,7 +31,6 @@ and ontologies on one hand and natural language processing on the other hand.
 * Email: johann.petrak (AT) gmail.com (preferred)
 * Email: johann.petrak (AT) ofai.at
 * Email: johann.petrak (AT) sheffield.ac.uk
-* Email: johann (AT) jpetrak.org
 * Skype: joh\_pet
 * [Uni Sheffield](https://www.sheffield.ac.uk/dcs/people/research-staff/johann-petrak)
 * [GitHub](http://github.com/johann-petrak) / [GitLab](https://gitlab.com/johann-petrak) / [BitBucket](https://bitbucket.org/johann_petrak/) 
