@@ -3,19 +3,14 @@ layout: default
 ---
 
 <a href="jp.jpg"><img align="left" src="jp.jpg" style="margin:0px 10px 0px 0px" height="140"></a>
-I am a researcher at the [Austrian Research Institute for Artificial Intelligence](http://ofai.at) and also a
-[research fellow](https://www.sheffield.ac.uk/dcs/people/research-staff/johann-petrak) at the 
-[University of Sheffield](http://www.sheffield.ac.uk/)
-and a member of the 
-[Natural Language Processing Group](http://nlp.shef.ac.uk/) 
-of the [Computer Science Department](http://www.sheffield.ac.uk/dcs). 
-Enthusiastic [developer of open source software](https://profile.codersrank.io/user/johann-petrak/).
+I am a researcher at the [Austrian Research Institute for Artificial Intelligence](http://ofai.at) and an 
+enthusiastic [developer of open source software](https://profile.codersrank.io/user/johann-petrak/).
 
 Most recently I have been working on [a project](https://ofai.github.io/femdwell/) that analyses the behaviour of visitors of a large
 Austrian news site and how the discourse in the online discussion forums
 influences the interaction with the site and on a [project](https://www.sheffield.ac.uk/news/towards-early-warning-system-violence-against-women-journalists) that uses NLP (among other approaches) to find, understand and warn about abuse directed at women journalists on Twitter.
 
-I am part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) and
+I was part of the core development team that develops the [GATE NLP framework](http://gate.ac.uk/) and
 main designer and developer of the Python [GateNLP](https://github.com/GateNLP/python-gatenlp/) package
 and have developed and contributed to a number of GATE plugins and other GATE related software as
 well as many other open-source projects.
@@ -30,9 +25,7 @@ and ontologies on one hand and natural language processing on the other hand.
 * Freyung 6/6, A-1010 Vienna, Austria
 * Email: johann.petrak (AT) gmail.com (preferred)
 * Email: johann.petrak (AT) ofai.at
-* Email: johann.petrak (AT) sheffield.ac.uk
 * Skype: joh\_pet
-* [Uni Sheffield](https://www.sheffield.ac.uk/dcs/people/research-staff/johann-petrak)
 * [GitHub](http://github.com/johann-petrak) / [GitLab](https://gitlab.com/johann-petrak) / [BitBucket](https://bitbucket.org/johann_petrak/) 
 * [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 * [dblp](https://dblp.uni-trier.de/pid/37/5468.html)
@@ -41,8 +34,12 @@ and ontologies on one hand and natural language processing on the other hand.
 * [Keybase](http://keybase.io/johann_petrak)
 * [LinkedIn](http://linkedin.com/in/johannpetrak)
 * [Facebook](http://facebook.com/johann.petrak)
+* [Threads](https://www.threads.net/@johannpetrak) @johannpetrak
+* [PostNews](https://post.news/@/johann_petrak) @johann_petrak
 * <a rel="me" href="https://sigmoid.social/@johann_petrak">Mastodon</a>
 * [Twitter](https://twitter.com/johann_p) @johann\_p
+* [Bluesky](https://bsky.app/profile/johann-petrak.bsky.social) @johann-petrak.bsky.social
+
 * [Keyoxide](https://keyoxide.org/hkp/2D2A808AB42A523206C35929789D465DC2248E6C)
 
 ## Publications
