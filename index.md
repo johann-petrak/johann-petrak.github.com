@@ -37,7 +37,6 @@ and ontologies on one hand and natural language processing on the other hand.
 * [Threads](https://www.threads.net/@johannpetrak) @johannpetrak
 * [PostNews](https://post.news/@/johann_petrak) @johann_petrak
 * <a rel="me" href="https://sigmoid.social/@johann_petrak">Mastodon</a>
-* [Twitter](https://twitter.com/johann_p) @johann\_p
 * [Bluesky](https://bsky.app/profile/johann-petrak.bsky.social) @johann-petrak.bsky.social
 * [Keyoxide](https://keyoxide.org/hkp/2D2A808AB42A523206C35929789D465DC2248E6C)
 
