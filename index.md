@@ -39,6 +39,10 @@ and ontologies on one hand and natural language processing on the other hand.
 * <a rel="me" href="https://sigmoid.social/@johann_petrak">Mastodon</a>
 * [Bluesky](https://bsky.app/profile/johann-petrak.bsky.social) @johann-petrak.bsky.social
 * [Keyoxide](https://keyoxide.org/hkp/2D2A808AB42A523206C35929789D465DC2248E6C)
+* NOT ON X/TWITTER, that cesspool of disinformation, right-extreme propaganda, hate speech and conspiracy dimwit drivel. Why anyone from academia is still on that site is utterly beyond me. 
+
+  
+<!-- https://www.tumblr.com/blog/johann-petrak -->
 
 ## Publications
 
