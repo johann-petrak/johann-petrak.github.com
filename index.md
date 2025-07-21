@@ -25,19 +25,13 @@ and ontologies on one hand and natural language processing on the other hand.
 * Freyung 6/6, A-1010 Vienna, Austria
 * Email: johann.petrak (AT) gmail.com (preferred)
 * Email: johann.petrak (AT) ofai.at
-* Skype: joh\_pet
 * [GitHub](http://github.com/johann-petrak) / [GitLab](https://gitlab.com/johann-petrak) / [BitBucket](https://bitbucket.org/johann_petrak/) 
 * [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 * [dblp](https://dblp.uni-trier.de/pid/37/5468.html)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Johann-Petrak/40402401)
 * [ORCID](https://orcid.org/0000-0001-8038-3096)
 * [Keybase](http://keybase.io/johann_petrak)
-* [LinkedIn](http://linkedin.com/in/johannpetrak)
-* [Facebook](http://facebook.com/johann.petrak)
-* [Threads](https://www.threads.net/@johannpetrak) @johannpetrak
-* [PostNews](https://post.news/@/johann_petrak) @johann_petrak
 * <a rel="me" href="https://sigmoid.social/@johann_petrak">Mastodon</a>
-* [Twitter](https://twitter.com/johann_p) @johann\_p
 * [Bluesky](https://bsky.app/profile/johann-petrak.bsky.social) @johann-petrak.bsky.social
 * [Keyoxide](https://keyoxide.org/hkp/2D2A808AB42A523206C35929789D465DC2248E6C)
 
