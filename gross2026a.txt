@@ -1,0 +1,11 @@
+@inproceedings{gross26_lrec,
+    author = "Gross, Stephanie and Petrak, Johann and Krenn, Brigitte",
+    title = "Ragability Benchmark: A Dataset and Library to Test LLMs on Inter-context Conflicts",
+    year = "2026",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference ({LREC 2026})",
+    pages = "2323-2333",
+    doi = "10.63317/2ty3hnn3bgb9",
+    url = "http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.182.pdf"
+}
+
+

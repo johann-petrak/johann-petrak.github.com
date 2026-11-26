@@ -44,6 +44,10 @@ and ontologies on one hand and natural language processing on the other hand.
 See also [Google Scholar](https://scholar.google.co.uk/citations?user=bfbF2fIAAAAJ)
 
 Selected publications:
+* **Ragability Benchmark: A Dataset and Library to Test LLMs on Inter-context Conflicts.**<br>
+  Stephanie Gross, Johann Petrak, and Brigitte Krenn<br>
+  Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026). 2323-2333<br>
+  <a href="https://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.182.pdf">[PDF]</a> <a href="gross2026a.txt">[BIB]</a>
 * **Classification Aware Neural Topic Model for COVID-19 Disinformation Categorisation**<br>
   Xingi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva<br>
   PLOS ONE 16(2): e0247086. <a href="https://doi.org/10.1371/journal.pone.0247086">https://doi.org/10.1371/journal.pone.0247086</a><br>
